@@ -1,0 +1,25 @@
+---
+layout: indochino-layout
+subject: Fall is Here
+---
+
+<container>
+  <row class="bigAd">
+    <columns>
+      <a href="{{indoEmail.bigPicAd.link}}"><img src="{{indoEmail.bigPicAd.image}}"></a>
+    </columns>
+  </row>
+</container>
+
+<container>
+<row class="offers">
+  {{#each indoEmail.offers}}
+  <columns>
+    <a href="{{this.link}}"><img src="{{this.image}}" /></a>
+    <span class="suit_style"><br>{{this.suitStyle}}</span>
+    <span class="suit_color">{{this.suitColor}}</span>
+    <span class="price"><br><br>${{this.price}} USD</span>
+  </columns>
+  {{/each}}
+</row>
+</container>

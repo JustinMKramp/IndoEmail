@@ -1,0 +1,41 @@
+{
+    "title": "Fall is Here",
+
+    "bigPicAd": {
+        "link":"https://www.indochino.com",
+        "image":"https://i.imgur.com/vAJYX5D.jpg"
+    },
+
+    "offers": [
+        {
+            "suitStyle": "Hayward Flannel",
+            "suitColor": "Charcoal Suit",
+            "price": "449",
+            "link": "https://www.indochino.com/product/hayward-flannel-charcoal-suit",
+            "image": "https://i.imgur.com/C1SLnTy.jpg"
+        },
+        {
+            "suitStyle": "Prescot Herringbone",
+            "suitColor": "Charcoal Suit",
+            "price": "429",
+            "link": "https://www.indochino.com/product/prescot-herringbone-charcoal-suit",
+            "image": "https://i.imgur.com/Ys5DtEG.jpg"
+        },
+        {
+            "suitStyle": "Fleetwood Moleskin",
+            "suitColor": "Tobacco Suit",
+            "price": "429",
+            "link": "https://www.indochino.com/product/fleetwood-moleskin-tobacco-suit",
+            "image": "https://i.imgur.com/moy698Q.jpg"
+        },
+        {
+            "suitStyle": "Durham Windowpane",
+            "suitColor": "Camel Suit",
+            "price": "429",
+            "link": "https://www.indochino.com/product/durham-windowpane-camel-suit",
+            "image": "https://i.imgur.com/FTboOcl.jpg"
+        }
+    ]
+
+
+}
